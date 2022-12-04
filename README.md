@@ -1,4 +1,4 @@
-# CoinFlipProbabilities
+# GUI Coin Flip Probability App
 
 Using the turtle library I created a simple coin flipping application that displays the rolling calculation of the standard deviation of coin flips (dependent upon number of occurences of course) and z score of the deviations from the mean.
 
